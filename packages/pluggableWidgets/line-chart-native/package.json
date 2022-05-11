@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@mendix/piw-utils-internal": "^1.0.0",
-    "victory-native": "^35.0.1"
+    "victory-native": "^36.2.0"
   },
   "devDependencies": {
     "@mendix/pluggable-widgets-tools": ">=8.9.2",
