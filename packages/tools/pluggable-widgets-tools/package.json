@@ -84,7 +84,7 @@
     "jest-svg-transformer": "^1.0.0",
     "mendix": "^9.2.20531",
     "metro-react-native-babel-preset": "~0.63.0",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^3.2.10",
     "postcss": "^8.1.10",
     "postcss-url": "^10.1.0",
     "prettier": "^2.2.1",
