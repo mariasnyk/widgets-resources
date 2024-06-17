@@ -51,7 +51,7 @@
     "@typescript-eslint/parser": "^4.15.2",
     "@wdio/cli": "^7.5.3",
     "@wdio/jasmine-framework": "^7.5.3",
-    "@wdio/local-runner": "^7.5.5",
+    "@wdio/local-runner": "^8.14.0",
     "@wdio/selenium-standalone-service": "^7.5.3",
     "@wdio/spec-reporter": "^7.5.3",
     "@wdio/sync": "^7.5.3",
@@ -78,7 +78,7 @@
     "identity-obj-proxy": "^3.0.0",
     "jasmine": "^3.6.2",
     "jasmine-core": "^3.6.0",
-    "jest": "^26.6.1",
+    "jest": "^28.0.0",
     "jest-junit": "^12.0.0",
     "jest-react-hooks-shallow": "^1.4.1",
     "jest-svg-transformer": "^1.0.0",
@@ -91,7 +91,7 @@
     "react": "~17.0.1",
     "react-dom": "~17.0.1",
     "react-hot-loader": "^4.13.0",
-    "react-native": "0.63.3",
+    "react-native": "0.69.12",
     "react-test-renderer": "~17.0.1",
     "recursive-copy": "^2.0.11",
     "resolve": "^1.19.0",
@@ -107,9 +107,9 @@
     "ts-jest": "^26.4.3",
     "ts-node": "^9.0.0",
     "typescript": "^4.0.5",
-    "webdriverio": "^7.5.3",
+    "webdriverio": "^8.14.0",
     "xml2js": "^0.4.23",
-    "zip-a-folder": "^0.0.12"
+    "zip-a-folder": "^3.1.7"
   },
   "devDependencies": {
     "@types/xml2js": "^0.4.5",
